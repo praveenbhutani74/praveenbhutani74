@@ -7,7 +7,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=praveenbhutani74&label=Profile%20views&color=0e75b6&style=flat" alt="praveenbhutani74" /> </p>
 
 
-- 🌱 I’m currently learning **ReactJs**
+- 🌱 I’m currently learning **NextJS**
 
 - 💬 Ask me about **MERN**
 
