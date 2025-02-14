@@ -7,9 +7,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=praveenbhutani74&label=Profile%20views&color=0e75b6&style=flat" alt="praveenbhutani74" /> </p>
 
 
-- 🌱 I’m currently learning **TypeScript**
+- 🌱 I’m currently learning **Spring Boot**
 
-- 💬 Ask me about **MERN**
+- 💬 Ask me about **Java and Angular**
 
 - 📫 How to reach me **bhutanipraveen74@gmail.com**
 
